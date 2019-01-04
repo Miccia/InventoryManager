@@ -41,6 +41,9 @@ class PlayerStatManager{
 	public addStatsEffects(){}
 
 
+/*
 
+dfhsdfsdofihsdòfnsdflushflsflisudhfposdifhsdoih
+*/
 
 }
