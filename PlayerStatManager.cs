@@ -39,12 +39,12 @@ class PlayerStatManager{
 	
 
 
-	public void applySingleEffect(StatsEffects e){}
-	public void addStatsEffects(){}
-	public void RefreshEffects(){
+	//public void applySingleEffect(StatsEffects e){}
+	//public void addStatsEffects(){}
+	//public void RefreshEffects(){
 
 		//TODO ad method stub
-	}
+	//}
 
 /*
 
