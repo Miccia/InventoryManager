@@ -39,7 +39,7 @@ class PlayerStatManager{
 	
 
 
-
+	public void applySingleEffect(StatsEffects e){}
 	public void addStatsEffects(){}
 	public void RefreshEffects(){
 
