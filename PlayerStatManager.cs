@@ -35,11 +35,16 @@ class PlayerStatManager{
 //TO DO 
 	public PlayerState getCurrentState(){return currentState;}
 	
-	public setState(PlayerState ps){currentState=ps;}
+	public void setState(PlayerState ps){currentState=ps;}
 	
 
-	public addStatsEffects(){}
 
+
+	public void addStatsEffects(){}
+	public void RefreshEffects(){
+
+		//TODO ad method stub
+	}
 
 /*
 
