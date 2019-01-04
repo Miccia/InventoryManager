@@ -36,7 +36,7 @@ class PlayerStatManager{
 	public PlayerState getCurrentState(){return currentState;}
 	
 	public void setState(PlayerState ps){currentState=ps;}
-	
+	//THIS IS DONE ON TESTING 2 BRANCH
 
 
 	//public void applySingleEffect(StatsEffects e){}
