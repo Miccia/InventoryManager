@@ -2,7 +2,7 @@
 class PlayerStatManager{
 	
 	//needed to 'link' the animator
-	enum PlayerState{ idle, running, attack, attack_running, hit, dead, poisoned, bloody, crippled }
+	enum PlayerState{ idle, running, attack, attack_running, hit, dead, poisoned, bloody, crippled, downgrab, cloaked }
 	
 	public const int MAX_LEVEL = 180;
 
