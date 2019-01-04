@@ -15,9 +15,4 @@ class PlayerStatManager{
 	private float topThirst;
 	private float topTemperature;
 
-	private PlayerState 
-
-
-
-wegwgrGWG
 }
